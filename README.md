@@ -1,1 +1,1 @@
-hello Ubuntu
+my vagrant hello ubuntu task
